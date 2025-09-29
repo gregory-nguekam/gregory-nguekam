@@ -8,7 +8,7 @@ Passionate
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [gregorynguekam@yahoo.com](mailto:gregorynguekam@yahoo.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning React, Vue.js and Django
 
 ### Skills
 
