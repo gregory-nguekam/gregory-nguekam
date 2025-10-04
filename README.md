@@ -6,9 +6,9 @@ Software Engineer
 
 Passionate
 
-* 🌍  I'm based in France
+* 🌍  I'm based in Paris,France looking for my first job as a Software Engineer.
 * ✉️  You can contact me at [gregorynguekam@yahoo.com](mailto:gregorynguekam@yahoo.com)
-* 🧠  I'm learning React, Vue.js and Django
+* 🧠  I'm actually proficient at Java, Angular and Node.js.
 
 ### Skills
 
